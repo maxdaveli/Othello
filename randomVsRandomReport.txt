@@ -1,0 +1,43 @@
+RandomVSRandom Report
+
+1) What is your conclusion, does the first or
+second player have some advantage, at least for a random strategy? 
+
+I believe that in Othello, there isn't a strong advantage for the first or the second player
+when both players use random moves. This is because Othello is highly strategic, and success
+depends on a variety of factors such as positional play, control of the corners, and the ability to minimize giving the
+opponent good moves. Random play completely removes these factors out of the equation. However,
+if the players are not playing random moves, the first player can have a slight advantage, as
+they can have the first opportunity to dictate the flow of the game.
+
+2) Watch https://www.youtube.com/watch?v=Iq9DzN6mvYA
+
+
+3) Briefly write your thoughts on the above video below:
+
+In the video, Jake explores how programmers can use and leverage coding to understand and apply
+statistical methods, without the need to use complex formulas. It highlights practical approaches
+to performing statistical analysis using programming languages such as Python. Key concepts
+covered include random sampling, confidence intervals, hypothesis testing, providing real life
+examples.
+
+4) H0 is also known as the Null Hypothesis, and it means there will be no observed effect or
+difference in the experiment. For example, the average adult body temperature is 98.6 Fahrenheit.
+
+5) Ha is also known as the Alternative Hypothesis, and it means there is an observed effect or
+different. For example, the average adult body temperature is NOT 98.6 Fahrenheit.
+
+6) Choose one of the following and delete the other:
+My experimental results support H0, so they do not support Ha
+
+7) As in the video, use either math or code (add a Java Class) to argue for or against H0
+Please refer to the code in my OthelloControllerRandomVSRandom.Java class. The null hypothesis
+is we assume that neither Player1 nor Player2 has a significant advantage when using random
+strategies. After running the simulation in the code, if the probabilities of P1 and P2 winning
+are close to each other, it supports the Null Hypothesis, meaning the differences are due to
+randomness, not any inherent advantage. Therefore, my experiment results support the Null Hypothesis
+as there is not significant difference between P1 and P2, indicating no player advantage.
+
+
+References: 
+https://www.thoughtco.com/null-hypothesis-vs-alternative-hypothesis-3126413
